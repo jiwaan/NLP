@@ -1,0 +1,14 @@
+1(S
+  (NP (Det Which) (Nbar (N countries)))
+  (DAUX does)
+  (S
+    (NP (Pron he))
+    (VP (Vbar (Vbar (V want)) (VP (SOV to) (Vbar (V travel)))))))
+
+2(S
+  (NP (Det Which) (Nbar (N countries)))
+  (DAUX does)
+  (S
+    (NP (Pron he))
+    (VP (Vbar (V want) (VP (SOV to) (Vbar (V travel)))))))
+

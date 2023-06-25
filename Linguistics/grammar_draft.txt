@@ -1,0 +1,19 @@
+S -> NP VP  | NP | VP | Aux S | Inte NP Aux S
+NP -> Pron | Det N | NP PP | Nomi
+VP -> VP PP | V NP | V NP PP | VP CP | TP
+PP -> P NP
+CP -> Conj + S
+Nomi -> N | Adj N | Adj Nomi
+TP -> T'
+T' -> Tense + NP | T' + VP 
+Pron -> 'me' | 'you' | 'you' | 'me'| 'he'
+Conj -> 'if' | '
+Tense -> 'Let'  
+Aux -> 'is' | 'Can' | 'does' | ''
+# Interrogative word 의문사 이자 wh word
+Inte -> 'Which'
+N -> 'company' | 'employees' | 'girls' | 'boys' | 'questions' | 'assignment' | 'game' |'contries'
+Det -> 'The' | 'that' | 'any' | 'the' | 
+V -> 'looking' | 'enjoyed' | 'wathching' | 'know' | 'have' | 'tell' | 'won' 
+P -> 'for' | 'on' | '
+Adj -> 'compentent' | 'Many' | 'young' | 'touching' | 'movie' | 

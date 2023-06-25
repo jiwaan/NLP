@@ -1,0 +1,32 @@
+1(S
+  (NP (Det The) (Nbar (N company)))
+  (VP
+    (SOV (Aux is))
+    (Vbar
+      (Vbar (V looking))
+      (PP (P for) (NP (Nbar (Adj competent) (N employees)))))))
+
+2(S
+  (NP (Det The) (Nbar (N company)))
+  (VP
+    (SOV (Aux is))
+    (Vbar
+      (Vbar (V looking))
+      (PP (P for) (NP (Nbar (Adj competent) (Nbar (N employees))))))))
+
+3(S
+  (NP (Det The) (Nbar (N company)))
+  (VP
+    (SOV (Aux is))
+    (Vbar
+      (V looking)
+      (PP (P for) (NP (Nbar (Adj competent) (N employees)))))))
+
+4(S
+  (NP (Det The) (Nbar (N company)))
+  (VP
+    (SOV (Aux is))
+    (Vbar
+      (V looking)
+      (PP (P for) (NP (Nbar (Adj competent) (Nbar (N employees))))))))
+

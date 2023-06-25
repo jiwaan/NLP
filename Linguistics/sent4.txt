@@ -1,0 +1,9 @@
+1(S
+  (Aux Can)
+  (S
+    (NP (Pron you))
+    (VP
+      (Vbar
+        (Vbar (Vbar (V tell) (NP (Pron me))) (NP (Pron who)))
+        (VP (Vbar (V won) (NP (Det the) (Nbar (N game)))))))))
+

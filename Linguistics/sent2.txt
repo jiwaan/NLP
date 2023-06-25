@@ -1,0 +1,288 @@
+1(S
+  (NP
+    (NP (Nbar (Adj Many) (Nbar (Adj young) (N girls))))
+    (Conj and)
+    (NP (Nbar (N boys))))
+  (VP
+    (Vbar
+      (Vbar (Vbar (V enjoyed)) (VP (Vbar (V watching))))
+      (NP (Det that) (Nbar (Adj touching) (N movie))))))
+
+2(S
+  (NP
+    (NP (Nbar (Adj Many) (Nbar (Adj young) (N girls))))
+    (Conj and)
+    (NP (Nbar (N boys))))
+  (VP
+    (Vbar
+      (Vbar (Vbar (V enjoyed)) (VP (Vbar (V watching))))
+      (NP (Det that) (Nbar (Adj touching) (Nbar (N movie)))))))
+
+3(S
+  (NP
+    (NP (Nbar (Adj Many) (Nbar (Adj young) (N girls))))
+    (Conj and)
+    (NP (Nbar (N boys))))
+  (VP
+    (Vbar
+      (Vbar (V enjoyed) (VP (Vbar (V watching))))
+      (NP (Det that) (Nbar (Adj touching) (N movie))))))
+
+4(S
+  (NP
+    (NP (Nbar (Adj Many) (Nbar (Adj young) (N girls))))
+    (Conj and)
+    (NP (Nbar (N boys))))
+  (VP
+    (Vbar
+      (Vbar (V enjoyed) (VP (Vbar (V watching))))
+      (NP (Det that) (Nbar (Adj touching) (Nbar (N movie)))))))
+
+5(S
+  (NP
+    (NP (Nbar (Adj Many) (Nbar (Adj young) (N girls))))
+    (Conj and)
+    (NP (Nbar (N boys))))
+  (VP
+    (Vbar
+      (Vbar (V enjoyed))
+      (VP
+        (Vbar
+          (Vbar (V watching))
+          (NP (Det that) (Nbar (Adj touching) (N movie))))))))
+
+6(S
+  (NP
+    (NP (Nbar (Adj Many) (Nbar (Adj young) (N girls))))
+    (Conj and)
+    (NP (Nbar (N boys))))
+  (VP
+    (Vbar
+      (Vbar (V enjoyed))
+      (VP
+        (Vbar
+          (Vbar (V watching))
+          (NP (Det that) (Nbar (Adj touching) (Nbar (N movie)))))))))
+
+7(S
+  (NP
+    (NP (Nbar (Adj Many) (Nbar (Adj young) (N girls))))
+    (Conj and)
+    (NP (Nbar (N boys))))
+  (VP
+    (Vbar
+      (Vbar (V enjoyed))
+      (VP
+        (Vbar
+          (V watching)
+          (NP (Det that) (Nbar (Adj touching) (N movie))))))))
+
+8(S
+  (NP
+    (NP (Nbar (Adj Many) (Nbar (Adj young) (N girls))))
+    (Conj and)
+    (NP (Nbar (N boys))))
+  (VP
+    (Vbar
+      (Vbar (V enjoyed))
+      (VP
+        (Vbar
+          (V watching)
+          (NP (Det that) (Nbar (Adj touching) (Nbar (N movie)))))))))
+
+9(S
+  (NP
+    (NP (Nbar (Adj Many) (Nbar (Adj young) (N girls))))
+    (Conj and)
+    (NP (Nbar (N boys))))
+  (VP
+    (Vbar
+      (V enjoyed)
+      (VP
+        (Vbar
+          (Vbar (V watching))
+          (NP (Det that) (Nbar (Adj touching) (N movie))))))))
+
+10(S
+  (NP
+    (NP (Nbar (Adj Many) (Nbar (Adj young) (N girls))))
+    (Conj and)
+    (NP (Nbar (N boys))))
+  (VP
+    (Vbar
+      (V enjoyed)
+      (VP
+        (Vbar
+          (Vbar (V watching))
+          (NP (Det that) (Nbar (Adj touching) (Nbar (N movie)))))))))
+
+11(S
+  (NP
+    (NP (Nbar (Adj Many) (Nbar (Adj young) (N girls))))
+    (Conj and)
+    (NP (Nbar (N boys))))
+  (VP
+    (Vbar
+      (V enjoyed)
+      (VP
+        (Vbar
+          (V watching)
+          (NP (Det that) (Nbar (Adj touching) (N movie))))))))
+
+12(S
+  (NP
+    (NP (Nbar (Adj Many) (Nbar (Adj young) (N girls))))
+    (Conj and)
+    (NP (Nbar (N boys))))
+  (VP
+    (Vbar
+      (V enjoyed)
+      (VP
+        (Vbar
+          (V watching)
+          (NP (Det that) (Nbar (Adj touching) (Nbar (N movie)))))))))
+
+13(S
+  (NP
+    (NP (Nbar (Adj Many) (Nbar (Adj young) (Nbar (N girls)))))
+    (Conj and)
+    (NP (Nbar (N boys))))
+  (VP
+    (Vbar
+      (Vbar (Vbar (V enjoyed)) (VP (Vbar (V watching))))
+      (NP (Det that) (Nbar (Adj touching) (N movie))))))
+
+14(S
+  (NP
+    (NP (Nbar (Adj Many) (Nbar (Adj young) (Nbar (N girls)))))
+    (Conj and)
+    (NP (Nbar (N boys))))
+  (VP
+    (Vbar
+      (Vbar (Vbar (V enjoyed)) (VP (Vbar (V watching))))
+      (NP (Det that) (Nbar (Adj touching) (Nbar (N movie)))))))
+
+15(S
+  (NP
+    (NP (Nbar (Adj Many) (Nbar (Adj young) (Nbar (N girls)))))
+    (Conj and)
+    (NP (Nbar (N boys))))
+  (VP
+    (Vbar
+      (Vbar (V enjoyed) (VP (Vbar (V watching))))
+      (NP (Det that) (Nbar (Adj touching) (N movie))))))
+
+16(S
+  (NP
+    (NP (Nbar (Adj Many) (Nbar (Adj young) (Nbar (N girls)))))
+    (Conj and)
+    (NP (Nbar (N boys))))
+  (VP
+    (Vbar
+      (Vbar (V enjoyed) (VP (Vbar (V watching))))
+      (NP (Det that) (Nbar (Adj touching) (Nbar (N movie)))))))
+
+17(S
+  (NP
+    (NP (Nbar (Adj Many) (Nbar (Adj young) (Nbar (N girls)))))
+    (Conj and)
+    (NP (Nbar (N boys))))
+  (VP
+    (Vbar
+      (Vbar (V enjoyed))
+      (VP
+        (Vbar
+          (Vbar (V watching))
+          (NP (Det that) (Nbar (Adj touching) (N movie))))))))
+
+18(S
+  (NP
+    (NP (Nbar (Adj Many) (Nbar (Adj young) (Nbar (N girls)))))
+    (Conj and)
+    (NP (Nbar (N boys))))
+  (VP
+    (Vbar
+      (Vbar (V enjoyed))
+      (VP
+        (Vbar
+          (Vbar (V watching))
+          (NP (Det that) (Nbar (Adj touching) (Nbar (N movie)))))))))
+
+19(S
+  (NP
+    (NP (Nbar (Adj Many) (Nbar (Adj young) (Nbar (N girls)))))
+    (Conj and)
+    (NP (Nbar (N boys))))
+  (VP
+    (Vbar
+      (Vbar (V enjoyed))
+      (VP
+        (Vbar
+          (V watching)
+          (NP (Det that) (Nbar (Adj touching) (N movie))))))))
+
+20(S
+  (NP
+    (NP (Nbar (Adj Many) (Nbar (Adj young) (Nbar (N girls)))))
+    (Conj and)
+    (NP (Nbar (N boys))))
+  (VP
+    (Vbar
+      (Vbar (V enjoyed))
+      (VP
+        (Vbar
+          (V watching)
+          (NP (Det that) (Nbar (Adj touching) (Nbar (N movie)))))))))
+
+21(S
+  (NP
+    (NP (Nbar (Adj Many) (Nbar (Adj young) (Nbar (N girls)))))
+    (Conj and)
+    (NP (Nbar (N boys))))
+  (VP
+    (Vbar
+      (V enjoyed)
+      (VP
+        (Vbar
+          (Vbar (V watching))
+          (NP (Det that) (Nbar (Adj touching) (N movie))))))))
+
+22(S
+  (NP
+    (NP (Nbar (Adj Many) (Nbar (Adj young) (Nbar (N girls)))))
+    (Conj and)
+    (NP (Nbar (N boys))))
+  (VP
+    (Vbar
+      (V enjoyed)
+      (VP
+        (Vbar
+          (Vbar (V watching))
+          (NP (Det that) (Nbar (Adj touching) (Nbar (N movie)))))))))
+
+23(S
+  (NP
+    (NP (Nbar (Adj Many) (Nbar (Adj young) (Nbar (N girls)))))
+    (Conj and)
+    (NP (Nbar (N boys))))
+  (VP
+    (Vbar
+      (V enjoyed)
+      (VP
+        (Vbar
+          (V watching)
+          (NP (Det that) (Nbar (Adj touching) (N movie))))))))
+
+24(S
+  (NP
+    (NP (Nbar (Adj Many) (Nbar (Adj young) (Nbar (N girls)))))
+    (Conj and)
+    (NP (Nbar (N boys))))
+  (VP
+    (Vbar
+      (V enjoyed)
+      (VP
+        (Vbar
+          (V watching)
+          (NP (Det that) (Nbar (Adj touching) (Nbar (N movie)))))))))
+

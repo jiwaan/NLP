@@ -1,0 +1,209 @@
+1(S
+  (VP
+    (Vbar
+      (Vbar (V Let) (NP (Pron me)))
+      (VP
+        (Vbar
+          (Vbar
+            (Vbar (V know) (CP (Comple if) (S (NP (Pron you)))))
+            (VP (Vbar (V have) (NP (Det any) (Nbar (N questions))))))
+          (PP (P on) (NP (Det the) (Nbar (N assignment)))))))))
+
+2(S
+  (VP
+    (Vbar
+      (Vbar (V Let) (NP (Pron me)))
+      (VP
+        (Vbar
+          (Vbar
+            (V know)
+            (CP
+              (Comple if)
+              (S
+                (NP (Pron you))
+                (VP
+                  (Vbar (V have) (NP (Det any) (Nbar (N questions))))))))
+          (PP (P on) (NP (Det the) (Nbar (N assignment)))))))))
+
+3(S
+  (VP
+    (Vbar
+      (Vbar (V Let) (NP (Pron me)))
+      (VP
+        (Vbar
+          (Vbar (V know) (CP (Comple if) (S (NP (Pron you)))))
+          (VP
+            (Vbar
+              (Vbar (V have) (NP (Det any) (Nbar (N questions))))
+              (PP (P on) (NP (Det the) (Nbar (N assignment)))))))))))
+
+4(S
+  (VP
+    (Vbar
+      (Vbar (V Let) (NP (Pron me)))
+      (VP
+        (Vbar
+          (Vbar (V know) (CP (Comple if) (S (NP (Pron you)))))
+          (VP
+            (Vbar
+              (V have)
+              (NP
+                (Det any)
+                (Nbar
+                  (Nbar (N questions))
+                  (PP (P on) (NP (Det the) (Nbar (N assignment)))))))))))))
+
+5(S
+  (VP
+    (Vbar
+      (Vbar (V Let) (NP (Pron me)))
+      (VP
+        (Vbar
+          (Vbar (V know) (CP (Comple if) (S (NP (Pron you)))))
+          (VP
+            (Vbar
+              (V have)
+              (NP
+                (Det any)
+                (Nbar
+                  (N questions)
+                  (PP (P on) (NP (Det the) (Nbar (N assignment)))))))))))))
+
+6(S
+  (VP
+    (Vbar
+      (Vbar (V Let) (NP (Pron me)))
+      (VP
+        (Vbar
+          (V know)
+          (CP
+            (Comple if)
+            (S
+              (NP (Pron you))
+              (VP
+                (Vbar
+                  (Vbar (V have) (NP (Det any) (Nbar (N questions))))
+                  (PP (P on) (NP (Det the) (Nbar (N assignment)))))))))))))
+
+7(S
+  (VP
+    (Vbar
+      (Vbar (V Let) (NP (Pron me)))
+      (VP
+        (Vbar
+          (V know)
+          (CP
+            (Comple if)
+            (S
+              (NP (Pron you))
+              (VP
+                (Vbar
+                  (V have)
+                  (NP
+                    (Det any)
+                    (Nbar
+                      (Nbar (N questions))
+                      (PP
+                        (P on)
+                        (NP (Det the) (Nbar (N assignment)))))))))))))))
+
+8(S
+  (VP
+    (Vbar
+      (Vbar (V Let) (NP (Pron me)))
+      (VP
+        (Vbar
+          (V know)
+          (CP
+            (Comple if)
+            (S
+              (NP (Pron you))
+              (VP
+                (Vbar
+                  (V have)
+                  (NP
+                    (Det any)
+                    (Nbar
+                      (N questions)
+                      (PP
+                        (P on)
+                        (NP (Det the) (Nbar (N assignment)))))))))))))))
+
+9(S
+  (VP
+    (Vbar
+      (Vbar
+        (Vbar (V Let) (NP (Pron me)))
+        (VP (Vbar (V know) (CP (Comple if) (S (NP (Pron you)))))))
+      (VP
+        (Vbar
+          (Vbar (V have) (NP (Det any) (Nbar (N questions))))
+          (PP (P on) (NP (Det the) (Nbar (N assignment)))))))))
+
+10(S
+  (VP
+    (Vbar
+      (Vbar
+        (Vbar (V Let) (NP (Pron me)))
+        (VP (Vbar (V know) (CP (Comple if) (S (NP (Pron you)))))))
+      (VP
+        (Vbar
+          (V have)
+          (NP
+            (Det any)
+            (Nbar
+              (Nbar (N questions))
+              (PP (P on) (NP (Det the) (Nbar (N assignment)))))))))))
+
+11(S
+  (VP
+    (Vbar
+      (Vbar
+        (Vbar (V Let) (NP (Pron me)))
+        (VP (Vbar (V know) (CP (Comple if) (S (NP (Pron you)))))))
+      (VP
+        (Vbar
+          (V have)
+          (NP
+            (Det any)
+            (Nbar
+              (N questions)
+              (PP (P on) (NP (Det the) (Nbar (N assignment)))))))))))
+
+12(S
+  (VP
+    (Vbar
+      (Vbar
+        (Vbar
+          (Vbar (V Let) (NP (Pron me)))
+          (VP (Vbar (V know) (CP (Comple if) (S (NP (Pron you)))))))
+        (VP (Vbar (V have) (NP (Det any) (Nbar (N questions))))))
+      (PP (P on) (NP (Det the) (Nbar (N assignment)))))))
+
+13(S
+  (VP
+    (Vbar
+      (Vbar
+        (Vbar (V Let) (NP (Pron me)))
+        (VP
+          (Vbar
+            (Vbar (V know) (CP (Comple if) (S (NP (Pron you)))))
+            (VP (Vbar (V have) (NP (Det any) (Nbar (N questions))))))))
+      (PP (P on) (NP (Det the) (Nbar (N assignment)))))))
+
+14(S
+  (VP
+    (Vbar
+      (Vbar
+        (Vbar (V Let) (NP (Pron me)))
+        (VP
+          (Vbar
+            (V know)
+            (CP
+              (Comple if)
+              (S
+                (NP (Pron you))
+                (VP
+                  (Vbar (V have) (NP (Det any) (Nbar (N questions))))))))))
+      (PP (P on) (NP (Det the) (Nbar (N assignment)))))))
+

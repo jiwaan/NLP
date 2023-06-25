@@ -1,0 +1,17 @@
+S -> NP VP  | NP | VP | Aux S | NP DAUX S
+NP -> Pron | Det N | N'
+VP -> V' | SOV + V'
+PP -> P NP
+CP -> Comple + S
+N' -> N | Adj N | Adj N' | N + PP | N' + PP
+V' -> V + NP | V' + VP | V PP | V' PP | V' + NP (4) | V + CP
+Pron -> 'me' | 'you' | 'you' | 'me'| 'he' | 'who'
+Comple -> 'if'
+Aux -> 'is' | 'Can'
+DAUX -> 'does'
+SOV -> 'to' # sepecifier of verb
+N -> 'company' | 'employees' | 'girls' | 'boys' | 'questions' | 'assignment' | 'game' |'contries'
+Det -> 'The' | 'that' | 'any' | 'the' | 'Which'
+V -> 'looking' | 'enjoyed' | 'wathching' | 'know' | 'have' | 'tell' | 'won' | 'Let' | 'want'
+P -> 'for' | 'on'
+Adj -> 'compentent' | 'Many' | 'young' | 'touching' | 'movie'
